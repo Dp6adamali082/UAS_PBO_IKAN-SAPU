@@ -1,9 +1,16 @@
 Nama Anggota Kelompok:
 
 - Jovinka Aphellia Salva (221401006)
+  Jobdesk: mengerjakan bagian source code KEMBALIKAN_BUKU
+  
 - Adam Muhammad Ali Yusuf (221401082)
+  Jobdesk: mengerjakan bagian source code PEMINJAMAN
+  
 - Najwa Afifi Situmorang (221401116)
+  Jobdesk: mengerjakan bagian source code BUKU
+  
 - Yosia Haganta Purba (221401132)
+  Jobdesk: mengerjakan bagian source code MENU & ANGGOTA
 
 Link YouTube: https://youtu.be/OmriJwoApzw
 
