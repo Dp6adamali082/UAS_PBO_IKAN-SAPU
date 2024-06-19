@@ -5,7 +5,7 @@ Nama Anggota Kelompok:
 - Najwa Afifi Situmorang (221401116)
 - Yosia Haganta Purba (221401132)
 
-Link YouTube:
+Link YouTube: https://youtu.be/OmriJwoApzw
 
 Bahasa yang dipakai: Java
 
